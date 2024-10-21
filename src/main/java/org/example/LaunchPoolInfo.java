@@ -18,7 +18,7 @@ public class LaunchPoolInfo {
     public static void readFile() {
         String exchange = "", pool = "", period = "", status = "";
         Map<String, String> pools = new HashMap<>();
-        try (BufferedReader reader = new BufferedReader(new FileReader("file.txt"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("src/file.txt"))) {
             for (String input = reader.readLine(); input != null; input = reader.readLine()){
                 if (input.startsWith("exchange="))
                     exchange = input.substring("exchange=".length());

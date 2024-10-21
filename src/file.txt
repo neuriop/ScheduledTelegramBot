@@ -1,0 +1,121 @@
+exchange=Bybit
+pool=DBR
+period=17.10 08:00 — 24.10 08:00 UTC
+status=Скоро почнеться
+pools=
+MNT=800%
+DBR=800%
+USDT=800%
+---
+exchange=Bitget
+pool=PUFFER
+period=16.10 12:00 — 26.10 12:00 UTC
+status=Скоро почнеться
+pools=
+PUFFER=0%
+---
+exchange=Gate
+pool=AIX
+period=16.10 05:00 — 23.10 05:00 UTC
+status=Скоро почнеться
+pools=
+USDT=0%
+GT=0%
+---
+exchange=Gate
+pool=CYRUS
+period=15.10 06:00 — 22.10 06:00 UTC
+status=Скоро почнеться
+pools=
+USDT=0%
+GT=0%
+---
+exchange=Bybit
+pool=PUFFER
+period=14.10 12:00 — 21.10 12:00 UTC
+status=Активний
+pools=
+PUFFER=800%
+MNT=352.7%
+USDT=186.67%
+---
+exchange=Gate
+pool=PUFFER
+period=14.10 12:00 — 21.10 12:00 UTC
+status=Активний
+pools=
+PUFFER=5073.87%
+GT=25.76%
+---
+exchange=Bitget
+pool=PUFFER
+period=14.10 12:00 — 21.10 12:00 UTC
+status=Активний
+pools=
+USDT=984.49%
+BGB=0%
+---
+exchange=Kucoin
+pool=PUFFER
+period=14.10 12:00 — 21.10 12:00 UTC
+status=Активний
+pools=
+PUFFER=
+USDT=0%
+CS=0%
+---
+exchange=Kucoin
+pool=DEEP
+period=14.10 10:00 — 21.10 10:00 UTC
+status=Активний
+pools=
+USDT=
+KCS=0%
+---
+exchange=Gate
+pool=GEEK
+period=11.10 10:00 — 16.10 10:00 UTC
+status=Активний
+pools=
+GEEK=1421.95%
+GT=0.89%
+---
+exchange=Bitget
+pool=CARV
+period=10.10 08:00 — 20.10 08:00 UTC
+status=Активний
+pools=
+USDT=87.36%
+CARV=240.95%
+---
+exchange=Bitget
+pool=OGLG
+period=09.10 12:00 — 19.10 12:00 UTC
+status=Активний
+pools=
+BTC=1.32%
+---
+exchange=Bitget
+pool=CATS
+period=08.10 10:00 — 18.10 10:00 UTC
+status=Активний
+pools=
+CATS=141.95%
+---
+exchange=Bybit
+pool=CATS
+period=08.10 10:00 — 15.10 10:00 UTC
+status=Активний
+pools=
+CATS=1158.81%
+MNT=66.15%
+USDT=41.42%
+---
+exchange=Gate
+pool=CATS
+period=08.10 10:00 — 15.10 10:00 UTC
+status=Активний
+pools=
+CATS=1012.63%
+GT=44.92%
+---
